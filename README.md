@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rfargose
+- 👋 Hi, I’m Rahel
 - 👀 I’m interested in anything related to data!
 - 🌱 I’m currently learning AWS services for data analytics
 - 💞️ I’m looking to collaborate on learning more about Hadoop ecosystem
