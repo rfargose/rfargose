@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahel
 - 👀 I’m interested in anything related to data!
-- 🌱 I’m currently learning AWS services for data analytics
+- 🌱 I’m currently studying for Microsoft PL-300 certification
 - 💞️ I’m looking to collaborate on learning more about data orchestration tools like Apache Airflow
 - 📫 How to reach me: rahelfargose23@gmail.com
 
